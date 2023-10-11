@@ -31,7 +31,7 @@
  */
 
 /*This is a template named empty.c file given as an sample to work on MSPM03507 MCU in CCS Theia*/
-/*For the blinkLED, empty.c file is unchanged as we just need to configure the syscfg file*/
+/*For the blinkLED project1, empty.c file is unchanged as we just need to configure the syscfg file*/
 
 #include "ti_msp_dl_config.h"
 
