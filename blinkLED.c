@@ -30,6 +30,8 @@
  * EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+/*This is a template named empty.c file given as an sample to work on MSPM03507 MCU in CCS Theia*/
+
 #include "ti_msp_dl_config.h"
 
 int main(void)
